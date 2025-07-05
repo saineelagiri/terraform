@@ -16,7 +16,7 @@ instance_type = "t2.micro"
 
 tags = {
 
-Name = "terrafrom ec2"
+Name = "terrafrom ec3"
 
 }
 
