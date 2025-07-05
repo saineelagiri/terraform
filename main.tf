@@ -12,7 +12,7 @@ resource "aws_instance" "one" {
 
 ami = "ami-0f3f13f145e66a0a3"
 
-instance_type = "t2.micro"
+instance_type = "t3.micro"
 
 tags = {
 
